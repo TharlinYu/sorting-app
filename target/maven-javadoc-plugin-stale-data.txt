@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Дима/.m2/repository/org/projectlombok/lombok/1.18.32/lombok-1.18.32.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Дима/Desktop/epam/java fundamentals/introduction to maven and junit/sorting-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Дима/Desktop/epam/java fundamentals/introduction to maven and junit/sorting-app/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sorting-app 1.0.0 API'
+-link
+'https://docs.oracle.com/javase/8/docs/api'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Дима/Desktop/epam/java fundamentals/introduction to maven and junit/sorting-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sorting-app 1.0.0 API'
+th.yu
+'C:/Users/Дима/Desktop/epam/java fundamentals/introduction to maven and junit/sorting-app/src/main/java/th/yu/SortingApp.java'
+C:\Users\Дима\.m2\repository\org\projectlombok\lombok\1.18.32\lombok-1.18.32.jar = 1715288385245
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\src\main\java = 1728812398943
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\allclasses-index.html = 1728817674984
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\allpackages-index.html = 1728817674989
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\element-list = 1728817674921
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\help-doc.html = 1728817675032
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\index-all.html = 1728817675010
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\index.html = 1728817675018
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\member-search-index.js = 1728817674997
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\module-search-index.js = 1728817674991
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\overview-tree.html = 1728817674966
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\package-search-index.js = 1728817674993
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\search.html = 1728817675015
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\tag-search-index.js = 1728817674999
+C:\Users\Дима\Desktop\epam\java fundamentals\introduction to maven and junit\sorting-app\target\apidocs\type-search-index.js = 1728817674995
